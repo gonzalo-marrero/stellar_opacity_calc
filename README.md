@@ -1,5 +1,12 @@
 # 🌟 Stellar Opacity Calculator
+👥 Autoría y colaboración
+Este proyecto corresponde a un desarrollo de código colaborativo realizado por:
 
+Gonzalo Marrero
+
+Fernando Barnés Sánchez
+
+La implementación del código, el análisis y la interpretación de resultados fueron realizados de manera conjunta como parte de un trabajo académico.
 📌 **Objetivo:**  
 Cálculo de la opacidad total en atmósferas estelares para dos modelos:  
 - Tipo solar (T = 5000 K)  
@@ -24,11 +31,3 @@ Python 3.x, NumPy, SciPy, Astropy, Matplotlib, Seaborn
 1. Instala las librerías:  
 ```bash
 pip install -r requirements.txt
-👥 Autoría y colaboración
-Este proyecto corresponde a un desarrollo de código colaborativo realizado por:
-
-Gonzalo Marrero
-
-Fernando Barnés Sánchez
-
-La implementación del código, el análisis y la interpretación de resultados fueron realizados de manera conjunta como parte de un trabajo académico.
