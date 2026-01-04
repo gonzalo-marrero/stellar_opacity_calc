@@ -1,33 +1,35 @@
-# 🌟 Stellar Opacity Calculator
-👥 Autoría y colaboración
-Este proyecto corresponde a un desarrollo de código colaborativo realizado por:
+👥 Authorship and Collaboration
+This project corresponds to a collaborative code development carried out by:
 
-Gonzalo Marrero
-
+Gonzalo Marrero Ramallo
 Fernando Barnés Sánchez
 
-La implementación del código, el análisis y la interpretación de resultados fueron realizados de manera conjunta como parte de un trabajo académico.
-📌 **Objetivo:**  
-Cálculo de la opacidad total en atmósferas estelares para dos modelos:  
-- Tipo solar (T = 5000 K)  
-- Modelo caliente (T = 8000 K)  
+The code implementation, analysis, and interpretation of results were performed jointly as part of an academic project.
 
-Se emplea Python y se asume LTE (equilibrio local de radiación) para calcular las poblaciones de los distintos estados de ionización y excitación mediante la **ecuación de Saha**, y a partir de ellas se determinan las opacidades. El modelo de atmósfera considera únicamente **hidrógeno**.  
+📌 Objective:
+Calculation of the total opacity in stellar atmospheres for two models:
 
-📊 **Resultados:**  
-Los cálculos se presentan en tablas y gráficos, mostrando la dependencia de la opacidad con la temperatura y la densidad.
+Solar-type (T = 5000 K)
 
-🛠 **Herramientas y librerías:**  
+Hot model (T = 8000 K)
+
+Python is used, assuming LTE (local thermodynamic equilibrium), to compute the populations of the different ionization and excitation states using the Saha equation. From these populations, the opacities are determined. The atmospheric model considers hydrogen only.
+
+📊 Results:
+The calculations are presented in tables and plots, showing the dependence of opacity on temperature and density.
+
+🛠 Tools and Libraries:
 Python 3.x, NumPy, SciPy, Astropy, Matplotlib, Seaborn
 
-📂 **Estructura del proyecto:**  
-- `notebooks/` → Notebooks con cálculos y pruebas  
-- `src/` → Scripts Python para cálculos de opacidad  
-- `data/` → Archivos de datos usados en los cálculos  
-- `docs/` → Gráficos, tablas e informes  
-- `requirements.txt` → Librerías necesarias  
+📂 Project Structure:
 
-🚀 **Cómo ejecutar:**  
-1. Instala las librerías:  
-```bash
-pip install -r requirements.txt
+notebooks/ → Notebooks with calculations and tests
+
+src/ → Python scripts for opacity calculations
+
+data/ → Data files used in the calculations
+
+docs/ → Plots, tables, and reports
+
+requirements.txt → Required libraries
+
