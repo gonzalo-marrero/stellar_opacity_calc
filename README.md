@@ -1,7 +1,7 @@
 👥 Authorship and Collaboration
 This project corresponds to a collaborative code development carried out by:
 
-Gonzalo Marrero Ramallo
+Gonzalo Marrero Ramallo and
 Fernando Barnés Sánchez
 
 The code implementation, analysis, and interpretation of results were performed jointly as part of an academic project.
